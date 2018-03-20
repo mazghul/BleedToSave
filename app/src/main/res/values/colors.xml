@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CC0000</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorAccent">#FA8072</color>
+    <color name="login_button_color">#FF3232</color>
+    <color name="signup_patch">#CCCCCC</color>
+    <color name="register_link_color">#3232FF</color>
+</resources>
